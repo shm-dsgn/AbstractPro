@@ -1,5 +1,5 @@
 # AbstractPro
-This is a repo to store all updates of Abstract Pro inluding keystore(private)
+This is a repo to store all updates of Abstract Pro 
 
 Abstract Pro for KWGT is a stadalone app that requires KWGT Kustom Widget Maker Pro for it to work.
 Both of them are paid.
